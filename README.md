@@ -9,3 +9,8 @@
 - 扫码手机试玩
 
 ![](./assets/Texture/qcode.png)
+
+
+- 放动图
+
+![](./assets/Texture/game.gif)
